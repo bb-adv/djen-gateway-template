@@ -1,0 +1,10 @@
+{
+  "name": "djen-gateway",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/node": "^5.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.0"
+  }
+}
